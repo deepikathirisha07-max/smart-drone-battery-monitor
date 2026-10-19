@@ -71,3 +71,19 @@ and must not be used for real flight safety decisions.
 
 Working software prototype with simulated battery readings,
 interactive visualisation, and CSV report export.
+
+## 📸 Project Screenshots
+
+### 1. Dashboard Overview
+![Drone Battery Dashboard](dashboard.png)
+
+### 2. Battery History and Discharge Graph
+![Battery History](battery_history.png)
+
+### 3. Battery Performance Report
+![Battery Performance Report](performance_report.png)
+
+## 🚀 Future Improvements
+- Real-time drone telemetry integration
+- Persistent flight history storage
+- Advanced battery analytics
